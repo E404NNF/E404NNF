@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 -->
 
 Hello! I'm E404NNF
-- Pronouns: She/Her
+- Pronouns: She/Her ♀️
 - Age: 13
-- Currently learning: Java
+- Currently learning: Java ☕
+- From: Egypt 🇪🇬
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=E404NNF&show_icons=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=E404NNF)  
