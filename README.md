@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **E404NNF/E404NNF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello! I'm E404NNF
+- Pronouns: She/Her
+- Age: 13
+- Currently learning: Java
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=E404NNF&show_icons=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=E404NNF)  
+
+![Profile views](https://gpvc.arturio.dev/E404NNF)
