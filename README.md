@@ -20,6 +20,8 @@ Hello! I'm E404NNF
 - Currently learning: Java ☕
 - From: Egypt 🇪🇬
 
+Contact me! [Facebook](https://facebook.com/e404nnf1), [Twitter](https://Twitter.com/e404nnf), [Reddit](https://reddit.com/u/e404nnf).
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=E404NNF&show_icons=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=E404NNF)  
 
