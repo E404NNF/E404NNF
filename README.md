@@ -1,28 +1,26 @@
-
-<!--
-**E404NNF/E404NNF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Hello! I'm E404NNF
 - Pronouns: She/Her ♀️
 - Age: 13
-- Currently learning: Java ☕
+- Currently learning: Java ☕, Kotlin 🇰
 - From: Egypt 🇪🇬
 
-Contact me! [Facebook](https://facebook.com/e404nnf1), [Twitter](https://Twitter.com/e404nnf), [Reddit](https://reddit.com/u/e404nnf).
+My Social Media accounts:
+<a href="https://facebook.com/e404nnf1">
+   <img height="16" width="16" src="https://unpkg.com/simple-icons@v5/icons/facebook.svg"/>
+</a> 
+<a href="https://twitter.com/e404nnf">
+   <img height="16" width="16" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg"/>
+</a> 
+<a href="https://reddit.com/u/e404nnf">
+   <img height="16" width="16" src="https://unpkg.com/simple-icons@v5/icons/reddit.svg"/>
+</a>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=E404NNF&show_icons=true)  
+Some fancy stats or something:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=E404NNF&show_icons=true) 
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=E404NNF)  
 
+<!-- The website seems to be dead
 ![Profile views](https://gpvc.arturio.dev/E404NNF)
+--!>
