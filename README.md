@@ -21,6 +21,7 @@ Some fancy stats or something:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=E404NNF)  
 
-<!-- The website seems to be dead
+<!---~~The website seems to be dead~~ well it works again--->
+
 ![Profile views](https://gpvc.arturio.dev/E404NNF)
---!>
+
